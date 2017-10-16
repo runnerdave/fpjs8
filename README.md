@@ -7,3 +7,5 @@ Clone the repo and go
 
 ## Bonus magic
 Install [LiveReload](http://livereload.com/)
+
+## for the callback examples, replace the contents of app.js with the other app-* files
